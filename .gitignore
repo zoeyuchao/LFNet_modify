@@ -1,0 +1,13 @@
+*.sh
+
+*.npy
+
+*.pyc
+
+*~
+.ipynb_checkpoints/
+sacre_coeur.tar.gz
+pretrained.tar.gz
+dump_feats/
+release/
+logs/
